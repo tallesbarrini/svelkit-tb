@@ -50,93 +50,93 @@ summary: "These are 7 amazing cli tools that are incredibly helpful when working
 
 <span style="color:#FDFFE2">Laço Social</span>
 
-<span style="color:#FDFFE2">Arte\, Cinema\, Música\, Comédia\, Psicanálise</span>
+<span style="color:#FDFFE2">Arte, Cinema, Música, Comédia, Psicanálise</span>
 
-<span style="color:#FDFFE2">Conexões\, trocas\, trans\-ferências</span>
+<span style="color:#FDFFE2">Conexões, trocas, trans-ferências</span>
 
-<span style="color:#FDFFE2">O estrangeiro em análise\, turismo\, Redes Sociais</span>
+<span style="color:#FDFFE2">O estrangeiro em análise, turismo, Redes Sociais</span>
 
-<span style="color:#FDFFE2">Processos cognitivos\, Fluxo de Signos</span>
+<span style="color:#FDFFE2">Processos cognitivos, Fluxo de Signos</span>
 
 <span style="color:#FDFFE2">Educação</span>
 
-![](../../static/post-images/Study-Groups/Study-Groups0.png)
+![](../../post-images/Study-Groups/Study-Groups0.png)
 
-![](../../static/post-images/Study-Groups/Study-Groups1.png)
+![](../../post-images/Study-Groups/Study-Groups1.png)
 
-![](../../static/post-images/Study-Groups/Study-Groups2.png)
+![](../../post-images/Study-Groups/Study-Groups2.png)
 
-![](../../static/post-images/Study-Groups/Study-Groups3.png)
+![](../../post-images/Study-Groups/Study-Groups3.png)
 
-![](../../static/post-images/Study-Groups/Study-Groups4.png)
+![](../../post-images/Study-Groups/Study-Groups4.png)
 
-![](../../static/post-images/Study-Groups/Study-Groups5.png)
+![](../../post-images/Study-Groups/Study-Groups5.png)
 
-![](../../static/post-images/Study-Groups/Study-Groups6.png)
+![](../../post-images/Study-Groups/Study-Groups6.png)
 
-![](../../static/post-images/Study-Groups/Study-Groups7.png)
+![](../../post-images/Study-Groups/Study-Groups7.png)
 
-![](../../static/post-images/Study-Groups/Study-Groups8.png)
+![](../../post-images/Study-Groups/Study-Groups8.png)
 
-![](../../static/post-images/Study-Groups/Study-Groups9.png)
+![](../../post-images/Study-Groups/Study-Groups9.png)
 
-![](../../static/post-images/Study-Groups/Study-Groups10.png)
+![](../../post-images/Study-Groups/Study-Groups10.png)
 
-![](../../static/post-images/Study-Groups/Study-Groups11.png)
+![](../../post-images/Study-Groups/Study-Groups11.png)
 
-![](../../static/post-images/Study-Groups/Study-Groups12.png)
+![](../../post-images/Study-Groups/Study-Groups12.png)
 
-![](../../static/post-images/Study-Groups/Study-Groups13.png)
+![](../../post-images/Study-Groups/Study-Groups13.png)
 
-![](../../static/post-images/Study-Groups/Study-Groups14.png)
+![](../../post-images/Study-Groups/Study-Groups14.png)
 
 # Ferramentas
 
-Fluxo de escrita\, notas\, agenda: Google Keep\, Google Calendar
+Fluxo de escrita, notas, agenda: Google Keep, Google Calendar
 
-Leitura: **@Voice\, ** ReadEra\, Smart Book\, mAbook \(audiobooks\)
+Leitura: **@Voice, ** ReadEra, Smart Book, mAbook (audiobooks)
 
-Textos: Docs\, Slides\, Diagramas\, Artigos\, Notícias\, IAs: Chatgpt
+Textos: Docs, Slides, Diagramas, Artigos, Notícias, IAs: Chatgpt
 
-Falar e ouvir: Recorder\, Live Transcribe\, Omegle
+Falar e ouvir: Recorder, Live Transcribe, Omegle
 
-Áudiovisual: Redes sociais\, Séries\, Cinema \(Netflix e outros\)
+Áudiovisual: Redes sociais, Séries, Cinema (Netflix e outros)
 
 Encontros: Meet/Zoom
 
-Edição\, legendas em vídeos: CapCut\, VLC\, Shotcut
+Edição, legendas em vídeos: CapCut, VLC, Shotcut
 
-Redes Sociais: TikTok\, Instagram\, Facebook\, X
+Redes Sociais: TikTok, Instagram, Facebook, X
 
 # Imersão Cultural
 
-<span style="color:#FDFFE2">Conjunto de lendas\, tradições e interpretações encontradas na história primitiva de uma nação\. </span>
+<span style="color:#FDFFE2">Conjunto de lendas, tradições e interpretações encontradas na história primitiva de uma nação. </span>
 
-<span style="color:#FDFFE2">Principais obras literárias\, cinema\, eventos políticos\, subjetividades</span>
+<span style="color:#FDFFE2">Principais obras literárias, cinema, eventos políticos, subjetividades</span>
 
-<span style="color:#FDFFE2">História da loucura\, da sexualidade\. </span>
+<span style="color:#FDFFE2">História da loucura, da sexualidade. </span>
 
-<span style="color:#FDFFE2">Escritores\, Diretores\, Artistas\, Obras de um país\, Negócios\, História\, Geografia\, Ciência</span>
+<span style="color:#FDFFE2">Escritores, Diretores, Artistas, Obras de um país, Negócios, História, Geografia, Ciência</span>
 
-<span style="color:#FDFFE2">Um processo de escuta da diferença\, da não compreensão \- estranhamentos </span>
+<span style="color:#FDFFE2">Um processo de escuta da diferença, da não compreensão - estranhamentos </span>
 
 # Atividades
 
-<span style="color:#FDFFE2">Grupos de estudos \(45 minutos\, Online\): </span> <span style="color:#FDFFE2">Semanais</span> <span style="color:#FDFFE2">Seminário 23\, Lacan\, Sinthoma\, Terças 19h</span> <span style="color:#FDFFE2">Espanhol \- Terças 11:10h </span> <span style="color:#FDFFE2">Transexualidades Quartas 16h\, </span> <span style="color:#FDFFE2">Trans\-missão da Psicanálise e Trans\-formação do Analista\, Terças 20h</span> <span style="color:#FDFFE2">Quinzenais</span> <span style="color:#FDFFE2">: Psicoses: Quintas 16h</span> <span style="color:#FDFFE2">História da Arte\, Cinema e Literatura: Quintas 10h</span> <span style="color:#FDFFE2">Lacan em Francês \- Segundas 15h</span> <span style="color:#FDFFE2">Feminino\, melancolia e teatro\, Quartas\, 20h</span> <span style="color:#FDFFE2">Homem\, Solidão e Cálculos\, Segundas 20h</span> <span style="color:#FDFFE2">Mensal</span> <span style="color:#FDFFE2">: Estruturas em Psicanálise: Quinta 20h</span>
+<span style="color:#FDFFE2">Grupos de estudos (45 minutos, Online): </span> <span style="color:#FDFFE2">Semanais</span> <span style="color:#FDFFE2">Seminário 23, Lacan, Sinthoma, Terças 19h</span> <span style="color:#FDFFE2">Espanhol - Terças 11:10h </span> <span style="color:#FDFFE2">Transexualidades Quartas 16h, </span> <span style="color:#FDFFE2">Trans-missão da Psicanálise e Trans-formação do Analista, Terças 20h</span> <span style="color:#FDFFE2">Quinzenais</span> <span style="color:#FDFFE2">: Psicoses: Quintas 16h</span> <span style="color:#FDFFE2">História da Arte, Cinema e Literatura: Quintas 10h</span> <span style="color:#FDFFE2">Lacan em Francês - Segundas 15h</span> <span style="color:#FDFFE2">Feminino, melancolia e teatro, Quartas, 20h</span> <span style="color:#FDFFE2">Homem, Solidão e Cálculos, Segundas 20h</span> <span style="color:#FDFFE2">Mensal</span> <span style="color:#FDFFE2">: Estruturas em Psicanálise: Quinta 20h</span>
 
-![](../../static/post-images/Study-Groups/Study-Groups15.png)
+![](../../post-images/Study-Groups/Study-Groups15.png)
 
 # Estrutura e valores
 
-<span style="color:#FDFFE2">300\,00 / mês semanal</span>
+<span style="color:#FDFFE2">300,00 / mês semanal</span>
 
-<span style="color:#FDFFE2">20</span> <span style="color:#FDFFE2">0\,00 / mês quinezal</span>
+<span style="color:#FDFFE2">20</span> <span style="color:#FDFFE2">0,00 / mês quinezal</span>
 
-<span style="color:#FDFFE2">150\,00 / mês mensal</span>
+<span style="color:#FDFFE2">150,00 / mês mensal</span>
 
 <span style="color:#FDFFE2">Pagamento: </span>
 
-<span style="color:#FDFFE2">telefone: 9 9772 6990</span> <span style="color:#FDFFE2">Pix chave aleatória: </span> <span style="color:#FDFFE2">0</span> <span style="color:#FDFFE2">0020101021126580014br\.gov\.bcb\.pix013678dfe124\-00aa\-4a62\-90eb\-d6f203c7af7c5204000053039865802BR5917TALLES DE O FARIA6013BOA ESPERANCA62070503\*\*\*63042941</span>
+<span style="color:#FDFFE2">telefone: 9 9772 6990</span> <span style="color:#FDFFE2">Pix chave aleatória: </span> <span style="color:#FDFFE2">0</span> <span style="color:#FDFFE2">0020101021126580014br.gov.bcb.pix013678dfe124-00aa-4a62-90eb-d6f203c7af7c5204000053039865802BR5917TALLES DE O FARIA6013BOA ESPERANCA62070503\*\*\*63042941</span>
 
 # Conheça nossa Escola
 
@@ -144,59 +144,59 @@ Redes Sociais: TikTok\, Instagram\, Facebook\, X
 
 # Cursos teóricos
 
-_[https://linktr\.ee/tallesbarrini](https://linktr.ee/tallesbarrini)_
+_[https://linktr.ee/tallesbarrini](https://linktr.ee/tallesbarrini)_
 
-<span style="color:#FDFFE2">Cursos online: </span> <span style="color:#FDFFE2">Figuras em Psicanálise: a criança\, o mal e a neurose</span> <span style="color:#FDFFE2">\. Mais informações: https://go\.hotmart\.com/V85752654T </span> <span style="color:#FDFFE2">Psicanálise e Inteligência Artificial</span> <span style="color:#FDFFE2">\. Mais informações: https://go\.hotmart\.com/B85742391D </span>
+<span style="color:#FDFFE2">Cursos online: </span> <span style="color:#FDFFE2">Figuras em Psicanálise: a criança, o mal e a neurose</span> <span style="color:#FDFFE2">. Mais informações: https://go.hotmart.com/V85752654T </span> <span style="color:#FDFFE2">Psicanálise e Inteligência Artificial</span> <span style="color:#FDFFE2">. Mais informações: https://go.hotmart.com/B85742391D </span>
 
 # Ebooks e outros materiais
 
-<span style="color:#FDFFE2">Slides e outros materiais estão disponíveis no drive\, basta clicar e baixar: </span> _[https://drive\.google\.com/drive/folders/1RVQs75Obb9ZXaLrUQwucCaye87eqvoHr?usp=sharing](https://drive.google.com/drive/folders/1RVQs75Obb9ZXaLrUQwucCaye87eqvoHr?usp=sharing)_
+<span style="color:#FDFFE2">Slides e outros materiais estão disponíveis no drive, basta clicar e baixar: </span> _[https://drive.google.com/drive/folders/1RVQs75Obb9ZXaLrUQwucCaye87eqvoHr?usp=sharing](https://drive.google.com/drive/folders/1RVQs75Obb9ZXaLrUQwucCaye87eqvoHr?usp=sharing)_
 
-<span style="color:#FDFFE2">Conheça a clínica\, supervisão e estudos de casos</span> <span style="color:#FDFFE2">: O que é uma Análise\, a quem se destina\, quais seus efeitos\, etc</span> _[https://docs\.google\.com/presentation/d/1rXsg_4xtB6SyIJD5TuuvIyOqOFWbxH45MmerYR1D3lY/edit?usp=sharing](https://docs.google.com/presentation/d/1rXsg_4xtB6SyIJD5TuuvIyOqOFWbxH45MmerYR1D3lY/edit?usp=sharing)_
+<span style="color:#FDFFE2">Conheça a clínica, supervisão e estudos de casos</span> <span style="color:#FDFFE2">: O que é uma Análise, a quem se destina, quais seus efeitos, etc</span> _[https://docs.google.com/presentation/d/1rXsg_4xtB6SyIJD5TuuvIyOqOFWbxH45MmerYR1D3lY/edit?usp=sharing](https://docs.google.com/presentation/d/1rXsg_4xtB6SyIJD5TuuvIyOqOFWbxH45MmerYR1D3lY/edit?usp=sharing)_
 
-<span style="color:#FDFFE2"> </span> <span style="color:#FDFFE2">Línguas: </span> _[https://shorturl\.at/kqrv0](https://shorturl.at/kqrv0)_
+<span style="color:#FDFFE2"> </span> <span style="color:#FDFFE2">Línguas: </span> _[https://shorturl.at/kqrv0](https://shorturl.at/kqrv0)_
 
 # Trabalhe conosco
 
-<span style="color:#FDFFE2">Afiliação na Clínica: </span> _[https://docs\.google\.com/presentation/d/1vQM9e4Kf_cHFwBQ1S3Kq_fLYDmRRSkZaZgpE2AZkzCA/edit?usp=sharing](https://docs.google.com/presentation/d/1vQM9e4Kf_cHFwBQ1S3Kq_fLYDmRRSkZaZgpE2AZkzCA/edit?usp=sharing)_
+<span style="color:#FDFFE2">Afiliação na Clínica: </span> _[https://docs.google.com/presentation/d/1vQM9e4Kf_cHFwBQ1S3Kq_fLYDmRRSkZaZgpE2AZkzCA/edit?usp=sharing](https://docs.google.com/presentation/d/1vQM9e4Kf_cHFwBQ1S3Kq_fLYDmRRSkZaZgpE2AZkzCA/edit?usp=sharing)_
 
-<span style="color:#FDFFE2">Afiliação de Cursos teóricos: </span> _[https://docs\.google\.com/presentation/d/1i9oTmgf7CVcJT5UJhIEH3IWZuu8rAkJLrzyNuLNeus0/edit?usp=sharing](https://docs.google.com/presentation/d/1i9oTmgf7CVcJT5UJhIEH3IWZuu8rAkJLrzyNuLNeus0/edit?usp=sharing)_
+<span style="color:#FDFFE2">Afiliação de Cursos teóricos: </span> _[https://docs.google.com/presentation/d/1i9oTmgf7CVcJT5UJhIEH3IWZuu8rAkJLrzyNuLNeus0/edit?usp=sharing](https://docs.google.com/presentation/d/1i9oTmgf7CVcJT5UJhIEH3IWZuu8rAkJLrzyNuLNeus0/edit?usp=sharing)_
 
-<span style="color:#FDFFE2">Psiquiatras\, Assistentes Sociais\, Educação: </span> _[https://docs\.google\.com/presentation/d/1fGxKy0PeQVmguioEpAheQGGR8vJUilGqCWMzFmQvtcs/edit?usp=sharing](https://docs.google.com/presentation/d/1fGxKy0PeQVmguioEpAheQGGR8vJUilGqCWMzFmQvtcs/edit?usp=sharing)_
+<span style="color:#FDFFE2">Psiquiatras, Assistentes Sociais, Educação: </span> _[https://docs.google.com/presentation/d/1fGxKy0PeQVmguioEpAheQGGR8vJUilGqCWMzFmQvtcs/edit?usp=sharing](https://docs.google.com/presentation/d/1fGxKy0PeQVmguioEpAheQGGR8vJUilGqCWMzFmQvtcs/edit?usp=sharing)_
 
-<span style="color:#FDFFE2">Cinema: </span> _[https://docs\.google\.com/presentation/d/1MGYJgJPWMmoz7mkZWdFOs3cxNQC9fnZreEX7RP_o5Mw/edit?usp=sharing](https://docs.google.com/presentation/d/1MGYJgJPWMmoz7mkZWdFOs3cxNQC9fnZreEX7RP_o5Mw/edit?usp=sharing)_
+<span style="color:#FDFFE2">Cinema: </span> _[https://docs.google.com/presentation/d/1MGYJgJPWMmoz7mkZWdFOs3cxNQC9fnZreEX7RP_o5Mw/edit?usp=sharing](https://docs.google.com/presentation/d/1MGYJgJPWMmoz7mkZWdFOs3cxNQC9fnZreEX7RP_o5Mw/edit?usp=sharing)_
 
 # CV e Trabalhos
 
-<span style="color:#FDFFE2">CV Cinema\, Arte e Psicanálise: </span> _[https://shorturl\.at/dfuI9](https://shorturl.at/dfuI9)_
+<span style="color:#FDFFE2">CV Cinema, Arte e Psicanálise: </span> _[https://shorturl.at/dfuI9](https://shorturl.at/dfuI9)_
 
-<span style="color:#FDFFE2">CV Cinema: </span> _[https://docs\.google\.com/presentation/d/1ynFhgRSXQarcCPwKzW5Mjp53FVSfeLC\-YuWfAWXQ50A/edit?usp=sharing](https://docs.google.com/presentation/d/1ynFhgRSXQarcCPwKzW5Mjp53FVSfeLC-YuWfAWXQ50A/edit?usp=sharing)_
+<span style="color:#FDFFE2">CV Cinema: </span> _[https://docs.google.com/presentation/d/1ynFhgRSXQarcCPwKzW5Mjp53FVSfeLC-YuWfAWXQ50A/edit?usp=sharing](https://docs.google.com/presentation/d/1ynFhgRSXQarcCPwKzW5Mjp53FVSfeLC-YuWfAWXQ50A/edit?usp=sharing)_
 
-<span style="color:#FDFFE2">CV Engenharia: </span> _[https://docs\.google\.com/presentation/d/1om1K_Taj\-RB7kw1RaL99sO3TirB4SA5CUfBQ0sZ6rd8/edit?usp=sharing](https://docs.google.com/presentation/d/1om1K_Taj-RB7kw1RaL99sO3TirB4SA5CUfBQ0sZ6rd8/edit?usp=sharing)_
+<span style="color:#FDFFE2">CV Engenharia: </span> _[https://docs.google.com/presentation/d/1om1K_Taj-RB7kw1RaL99sO3TirB4SA5CUfBQ0sZ6rd8/edit?usp=sharing](https://docs.google.com/presentation/d/1om1K_Taj-RB7kw1RaL99sO3TirB4SA5CUfBQ0sZ6rd8/edit?usp=sharing)_
 
-<span style="color:#FDFFE2">Imdb: </span> <span style="color:#FDFFE2"> _[https://www\.imdb\.com/user/ur120912813/ratings](https://www.imdb.com/user/ur120912813/ratings)_ </span>
+<span style="color:#FDFFE2">Imdb: </span> <span style="color:#FDFFE2"> _[https://www.imdb.com/user/ur120912813/ratings](https://www.imdb.com/user/ur120912813/ratings)_ </span>
 
-<span style="color:#FDFFE2">Apresentação \- Escola de Cinema\, Arte e Psicanálise: </span> <span style="color:#FDFFE2"> _[https://docs\.google\.com/presentation/d/1MGYJgJPWMmoz7mkZWdFOs3cxNQC9fnZreEX7RP_o5Mw/edit?usp=sharing](https://docs.google.com/presentation/d/1MGYJgJPWMmoz7mkZWdFOs3cxNQC9fnZreEX7RP_o5Mw/edit?usp=sharing)_ </span> <span style="color:#FDFFE2">Escola de Subjetividade\, Arte e Psicanálise: </span> <span style="color:#FDFFE2"> _[https://docs\.google\.com/presentation/d/1dy1HHo_fTVZFMWLlGUcMLv_uTNj6gLMe87CGtVaN1ro/edit?usp=sharing](https://docs.google.com/presentation/d/1dy1HHo_fTVZFMWLlGUcMLv_uTNj6gLMe87CGtVaN1ro/edit?usp=sharing)_ </span>
+<span style="color:#FDFFE2">Apresentação - Escola de Cinema, Arte e Psicanálise: </span> <span style="color:#FDFFE2"> _[https://docs.google.com/presentation/d/1MGYJgJPWMmoz7mkZWdFOs3cxNQC9fnZreEX7RP_o5Mw/edit?usp=sharing](https://docs.google.com/presentation/d/1MGYJgJPWMmoz7mkZWdFOs3cxNQC9fnZreEX7RP_o5Mw/edit?usp=sharing)_ </span> <span style="color:#FDFFE2">Escola de Subjetividade, Arte e Psicanálise: </span> <span style="color:#FDFFE2"> _[https://docs.google.com/presentation/d/1dy1HHo_fTVZFMWLlGUcMLv_uTNj6gLMe87CGtVaN1ro/edit?usp=sharing](https://docs.google.com/presentation/d/1dy1HHo_fTVZFMWLlGUcMLv_uTNj6gLMe87CGtVaN1ro/edit?usp=sharing)_ </span>
 
-<span style="color:#FDFFE2">Percurso em Psicanálise: </span> <span style="color:#FDFFE2"> _[https://docs\.google\.com/presentation/d/1DU01iGXqGQFNwVJtnK6xTcUxQHRqxIhKlukwAxIsgTc/edit?usp=sharing](https://docs.google.com/presentation/d/1DU01iGXqGQFNwVJtnK6xTcUxQHRqxIhKlukwAxIsgTc/edit?usp=sharing)_ </span>
+<span style="color:#FDFFE2">Percurso em Psicanálise: </span> <span style="color:#FDFFE2"> _[https://docs.google.com/presentation/d/1DU01iGXqGQFNwVJtnK6xTcUxQHRqxIhKlukwAxIsgTc/edit?usp=sharing](https://docs.google.com/presentation/d/1DU01iGXqGQFNwVJtnK6xTcUxQHRqxIhKlukwAxIsgTc/edit?usp=sharing)_ </span>
 
 # CVs
 
-<span style="color:#FDFFE2">Software Engineer: </span> <span style="color:#FDFFE2"> _[https://docs\.google\.com/presentation/d/1DOJwoIGn22VGetRZ5fbKNIKFpTC1WoV4V\_\-f2EpAqnQ/edit?usp=sharing](https://docs.google.com/presentation/d/1DOJwoIGn22VGetRZ5fbKNIKFpTC1WoV4V_-f2EpAqnQ/edit?usp=sharing)\_ </span>
+<span style="color:#FDFFE2">Software Engineer: </span> <span style="color:#FDFFE2"> _[https://docs.google.com/presentation/d/1DOJwoIGn22VGetRZ5fbKNIKFpTC1WoV4V_-f2EpAqnQ/edit?usp=sharing](https://docs.google.com/presentation/d/1DOJwoIGn22VGetRZ5fbKNIKFpTC1WoV4V_-f2EpAqnQ/edit?usp=sharing)\_ </span>
 
-<span style="color:#FDFFE2">IA e Psicanálise: </span> <span style="color:#FDFFE2"> _[https://docs\.google\.com/presentation/d/1pdimAblLJPtOYCBqVitH_2cV4O96BFWeopLXrl\-fuJ4/edit?usp=sharing](https://docs.google.com/presentation/d/1pdimAblLJPtOYCBqVitH_2cV4O96BFWeopLXrl-fuJ4/edit?usp=sharing)_ </span>
+<span style="color:#FDFFE2">IA e Psicanálise: </span> <span style="color:#FDFFE2"> _[https://docs.google.com/presentation/d/1pdimAblLJPtOYCBqVitH_2cV4O96BFWeopLXrl-fuJ4/edit?usp=sharing](https://docs.google.com/presentation/d/1pdimAblLJPtOYCBqVitH_2cV4O96BFWeopLXrl-fuJ4/edit?usp=sharing)_ </span>
 
-<span style="color:#FDFFE2">Startup Checklist: </span> <span style="color:#FDFFE2">https://docs\.google\.com/presentation/d/12MFYNK6o3fg8uSRkrM6zUnSdbxPLMMWZaaro9NANLmg/edit?usp=sharing</span>
+<span style="color:#FDFFE2">Startup Checklist: </span> <span style="color:#FDFFE2">https://docs.google.com/presentation/d/12MFYNK6o3fg8uSRkrM6zUnSdbxPLMMWZaaro9NANLmg/edit?usp=sharing</span>
 
 # Grupos e Canais
 
-<span style="color:#FDFFE2">WhatsApp Talles Barrini: </span> _[https://chat\.whatsapp\.com/JGlGyJQirVK2nshslvTsen](https://chat.whatsapp.com/JGlGyJQirVK2nshslvTsen)_
+<span style="color:#FDFFE2">WhatsApp Talles Barrini: </span> _[https://chat.whatsapp.com/JGlGyJQirVK2nshslvTsen](https://chat.whatsapp.com/JGlGyJQirVK2nshslvTsen)_
 
-<span style="color:#FDFFE2">WhatsApp Afiliados: </span> _[https://chat\.whatsapp\.com/Ebe8zQC1oLjLGDuKC8by8I](https://chat.whatsapp.com/Ebe8zQC1oLjLGDuKC8by8I)_
+<span style="color:#FDFFE2">WhatsApp Afiliados: </span> _[https://chat.whatsapp.com/Ebe8zQC1oLjLGDuKC8by8I](https://chat.whatsapp.com/Ebe8zQC1oLjLGDuKC8by8I)_
 
-<span style="color:#FDFFE2">Canal Telegram: </span> _[https://t\.me/tallesbarrini](https://t.me/tallesbarrini)_
+<span style="color:#FDFFE2">Canal Telegram: </span> _[https://t.me/tallesbarrini](https://t.me/tallesbarrini)_
 
-![](../../static/post-images/Study-Groups/Study-Groups16.jpg)
+![](../../post-images/Study-Groups/Study-Groups16.jpg)
 
 # Seja bem-vindo nessa aventura
 
@@ -204,6 +204,6 @@ _[https://linktr\.ee/tallesbarrini](https://linktr.ee/tallesbarrini)_
 
 @tallesbarrini
 
-\+55 \(35\) 99772 6990
++55 (35) 99772 6990
 
-_[tallesbarrini@gmail\.com](mailto:tallesconsultoriapessoal@gmail.com)_
+_[tallesbarrini@gmail.com](mailto:tallesconsultoriapessoal@gmail.com)_

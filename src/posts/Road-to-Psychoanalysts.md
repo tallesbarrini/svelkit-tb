@@ -66,9 +66,9 @@ summary: "These are 7 amazing cli tools that are incredibly helpful when working
 
 # Letra, Gozo
 
-<span style="color:#FDFFE2">Freud\, Lacan\, Klein\, etc\.</span>
+<span style="color:#FDFFE2">Freud, Lacan, Klein, etc.</span>
 
-<span style="color:#FDFFE2">Casos clínicos\, estratégias</span>
+<span style="color:#FDFFE2">Casos clínicos, estratégias</span>
 
 **Estudos Teóricos**
 
@@ -76,61 +76,61 @@ summary: "These are 7 amazing cli tools that are incredibly helpful when working
 
 # Alternativa
 
-<span style="color:#FDFFE2">Freud\, Lacan\, Klein\, etc\.</span>
+<span style="color:#FDFFE2">Freud, Lacan, Klein, etc.</span>
 
 <span style="color:#FDFFE2">Escuta de Analistas</span>
 
-**Escrita\, **
+**Escrita, **
 
 **Estudos Teóricos**
 
-![](../../static/post-images/Road-to-Psychoanalysts/Road-to-Psychoanalysts0.jpg)
+![](../../post-images/Road-to-Psychoanalysts/Road-to-Psychoanalysts0.jpg)
 
 # Percurso Pessoal
 
-![](../../static/post-images/Road-to-Psychoanalysts/Road-to-Psychoanalysts1.png)
+![](../../post-images/Road-to-Psychoanalysts/Road-to-Psychoanalysts1.png)
 
 # Percurso
 
-![](../../static/post-images/Road-to-Psychoanalysts/Road-to-Psychoanalysts2.png)
+![](../../post-images/Road-to-Psychoanalysts/Road-to-Psychoanalysts2.png)
 
-Engenharia de Computação \- ITA
+Engenharia de Computação - ITA
 
-Neurocomputação\, Redes Complexas
+Neurocomputação, Redes Complexas
 
-Livup \- SpNegócios\, Processos\, desenvolvimento de Software
+Livup - SpNegócios, Processos, desenvolvimento de Software
 
-Escola Brasileira de Psicanálise \- Florianópolis
+Escola Brasileira de Psicanálise - Florianópolis
 
-![](../../static/post-images/Road-to-Psychoanalysts/Road-to-Psychoanalysts3.png)
+![](../../post-images/Road-to-Psychoanalysts/Road-to-Psychoanalysts3.png)
 
-![](../../static/post-images/Road-to-Psychoanalysts/Road-to-Psychoanalysts4.png)
+![](../../post-images/Road-to-Psychoanalysts/Road-to-Psychoanalysts4.png)
 
-![](../../static/post-images/Road-to-Psychoanalysts/Road-to-Psychoanalysts5.png)
+![](../../post-images/Road-to-Psychoanalysts/Road-to-Psychoanalysts5.png)
 
 # Literatura Psicanalítica
 
-**1930 \- 1960**
+**1930 - 1960**
 
-M\. Klein\, D\. WinnicottA psicanálise da criança\, Técnica\, Sexualidade\, Adolescência\, O brincar
+M. Klein, D. WinnicottA psicanálise da criança, Técnica, Sexualidade, Adolescência, O brincar
 
 **2000**
 
-Soler\, QuinetPsicose\, Esquizofrenia\, Paranóia\, Melancolia
+Soler, QuinetPsicose, Esquizofrenia, Paranóia, Melancolia
 
-**1940 \- 1970**
+**1940 - 1970**
 
-Lacan: Angústia\, Relação de Objeto\, Identificação\, Transferência\,
+Lacan: Angústia, Relação de Objeto, Identificação, Transferência,
 
 Estilo
 
 **2020**
 
-Dunker\, Zizek\, JA Miller: Gozo e a Teoria do Valor \- Conceitos Econômicos em Lacan
+Dunker, Zizek, JA Miller: Gozo e a Teoria do Valor - Conceitos Econômicos em Lacan
 
-**1900 \- 1930**
+**1900 - 1930**
 
-Freud: Amor\, Sexualidade\, Clínica\, Conceitos Fundamentais\,
+Freud: Amor, Sexualidade, Clínica, Conceitos Fundamentais,
 
 Sociedade
 
@@ -166,15 +166,15 @@ AS FORMAÇÕES DO INCONSCIENTEA EXPERIÊNCIA ANALÍTICAO FALO, OBJETO aCLÍNI
 
 # Operação do Psicanalista
 
-![](../../static/post-images/Road-to-Psychoanalysts/Road-to-Psychoanalysts6.png)
+![](../../post-images/Road-to-Psychoanalysts/Road-to-Psychoanalysts6.png)
 
-![](../../static/post-images/Road-to-Psychoanalysts/Road-to-Psychoanalysts7.png)
+![](../../post-images/Road-to-Psychoanalysts/Road-to-Psychoanalysts7.png)
 
-Eixo do Inconsciente\. LalangueO analista suficientemente simbolizávelO Eu do AnalistaTeoria dos quatro DiscursosNós borromeanosTopologia Lacaniana
+Eixo do Inconsciente. LalangueO analista suficientemente simbolizávelO Eu do AnalistaTeoria dos quatro DiscursosNós borromeanosTopologia Lacaniana
 
-![](../../static/post-images/Road-to-Psychoanalysts/Road-to-Psychoanalysts8.png)
+![](../../post-images/Road-to-Psychoanalysts/Road-to-Psychoanalysts8.png)
 
-![](../../static/post-images/Road-to-Psychoanalysts/Road-to-Psychoanalysts9.png)
+![](../../post-images/Road-to-Psychoanalysts/Road-to-Psychoanalysts9.png)
 
 # Término de Análise
 
@@ -184,9 +184,9 @@ Eixo do Inconsciente\. LalangueO analista suficientemente simbolizávelO Eu do A
 
 # Coleta e Análise
 
-Selecionar algum texto\, tema\, trecho para elaborarmos\.
+Selecionar algum texto, tema, trecho para elaborarmos.
 
-Os sentimentos\, estranhamentos\, confusões\, críticas com o texto\. Aquilo que o texto produz em nós e o que temos a ver com isso\.
+Os sentimentos, estranhamentos, confusões, críticas com o texto. Aquilo que o texto produz em nós e o que temos a ver com isso.
 
 "Que sou eu nisso?"
 

@@ -84,7 +84,7 @@ summary: "These are 7 amazing cli tools that are incredibly helpful when working
 
 <span style="color:#FDFFE2">Por que uma Escola?</span>
 
-<span style="color:#FDFFE2">Inspiração\, Laço Social\, Estrutura</span>
+<span style="color:#FDFFE2">Inspiração, Laço Social, Estrutura</span>
 
 <span style="color:#FDFFE2">Conheça nossas Atividades</span>
 
@@ -98,49 +98,49 @@ summary: "These are 7 amazing cli tools that are incredibly helpful when working
 
 <span style="color:#FDFFE2">Arte</span>
 
-<span style="color:#FDFFE2">Conexões\, trocas\, trans\-ferências</span>
+<span style="color:#FDFFE2">Conexões, trocas, trans-ferências</span>
 
-![](../../static/post-images/School-of-Cinema-Art-Psychoanalysis/School-of-Cinema-Art-Psychoanalysis0.png)
+![](../../post-images/School-of-Cinema-Art-Psychoanalysis/School-of-Cinema-Art-Psychoanalysis0.png)
 
-![](../../static/post-images/School-of-Cinema-Art-Psychoanalysis/School-of-Cinema-Art-Psychoanalysis1.png)
+![](../../post-images/School-of-Cinema-Art-Psychoanalysis/School-of-Cinema-Art-Psychoanalysis1.png)
 
-![](../../static/post-images/School-of-Cinema-Art-Psychoanalysis/School-of-Cinema-Art-Psychoanalysis2.png)
+![](../../post-images/School-of-Cinema-Art-Psychoanalysis/School-of-Cinema-Art-Psychoanalysis2.png)
 
-![](../../static/post-images/School-of-Cinema-Art-Psychoanalysis/School-of-Cinema-Art-Psychoanalysis3.png)
+![](../../post-images/School-of-Cinema-Art-Psychoanalysis/School-of-Cinema-Art-Psychoanalysis3.png)
 
-![](../../static/post-images/School-of-Cinema-Art-Psychoanalysis/School-of-Cinema-Art-Psychoanalysis4.png)
+![](../../post-images/School-of-Cinema-Art-Psychoanalysis/School-of-Cinema-Art-Psychoanalysis4.png)
 
-![](../../static/post-images/School-of-Cinema-Art-Psychoanalysis/School-of-Cinema-Art-Psychoanalysis5.png)
+![](../../post-images/School-of-Cinema-Art-Psychoanalysis/School-of-Cinema-Art-Psychoanalysis5.png)
 
-![](../../static/post-images/School-of-Cinema-Art-Psychoanalysis/School-of-Cinema-Art-Psychoanalysis6.png)
+![](../../post-images/School-of-Cinema-Art-Psychoanalysis/School-of-Cinema-Art-Psychoanalysis6.png)
 
-![](../../static/post-images/School-of-Cinema-Art-Psychoanalysis/School-of-Cinema-Art-Psychoanalysis7.png)
+![](../../post-images/School-of-Cinema-Art-Psychoanalysis/School-of-Cinema-Art-Psychoanalysis7.png)
 
-![](../../static/post-images/School-of-Cinema-Art-Psychoanalysis/School-of-Cinema-Art-Psychoanalysis8.png)
+![](../../post-images/School-of-Cinema-Art-Psychoanalysis/School-of-Cinema-Art-Psychoanalysis8.png)
 
-![](../../static/post-images/School-of-Cinema-Art-Psychoanalysis/School-of-Cinema-Art-Psychoanalysis9.png)
+![](../../post-images/School-of-Cinema-Art-Psychoanalysis/School-of-Cinema-Art-Psychoanalysis9.png)
 
-![](../../static/post-images/School-of-Cinema-Art-Psychoanalysis/School-of-Cinema-Art-Psychoanalysis10.png)
+![](../../post-images/School-of-Cinema-Art-Psychoanalysis/School-of-Cinema-Art-Psychoanalysis10.png)
 
-![](../../static/post-images/School-of-Cinema-Art-Psychoanalysis/School-of-Cinema-Art-Psychoanalysis11.png)
+![](../../post-images/School-of-Cinema-Art-Psychoanalysis/School-of-Cinema-Art-Psychoanalysis11.png)
 
-![](../../static/post-images/School-of-Cinema-Art-Psychoanalysis/School-of-Cinema-Art-Psychoanalysis12.png)
+![](../../post-images/School-of-Cinema-Art-Psychoanalysis/School-of-Cinema-Art-Psychoanalysis12.png)
 
-![](../../static/post-images/School-of-Cinema-Art-Psychoanalysis/School-of-Cinema-Art-Psychoanalysis13.png)
+![](../../post-images/School-of-Cinema-Art-Psychoanalysis/School-of-Cinema-Art-Psychoanalysis13.png)
 
-![](../../static/post-images/School-of-Cinema-Art-Psychoanalysis/School-of-Cinema-Art-Psychoanalysis14.png)
+![](../../post-images/School-of-Cinema-Art-Psychoanalysis/School-of-Cinema-Art-Psychoanalysis14.png)
 
-![](../../static/post-images/School-of-Cinema-Art-Psychoanalysis/School-of-Cinema-Art-Psychoanalysis15.png)
+![](../../post-images/School-of-Cinema-Art-Psychoanalysis/School-of-Cinema-Art-Psychoanalysis15.png)
 
-![](../../static/post-images/School-of-Cinema-Art-Psychoanalysis/School-of-Cinema-Art-Psychoanalysis16.png)
+![](../../post-images/School-of-Cinema-Art-Psychoanalysis/School-of-Cinema-Art-Psychoanalysis16.png)
 
-![](../../static/post-images/School-of-Cinema-Art-Psychoanalysis/School-of-Cinema-Art-Psychoanalysis17.png)
+![](../../post-images/School-of-Cinema-Art-Psychoanalysis/School-of-Cinema-Art-Psychoanalysis17.png)
 
-Trabalhar\, elaborar\, falar\, escrever\, gravar
+Trabalhar, elaborar, falar, escrever, gravar
 
 # Laços sociais
 
-Governar\, Gerenciar\, Fiscalizar\, Contar
+Governar, Gerenciar, Fiscalizar, Contar
 
 Formação Clínica
 
@@ -148,47 +148,47 @@ Aberto ao Público: SextArte
 
 # Estrutura
 
-Clínica\, Supervisão\, Estudos de casos
+Clínica, Supervisão, Estudos de casos
 
-**Seminários\, Cartéis e Pesquisa**
+**Seminários, Cartéis e Pesquisa**
 
-Autoria \+ Novos projetos
+Autoria + Novos projetos
 
 Estudo de Línguas
 
 # Atividades - Escola Talles Barrini
 
-<span style="color:#FDFFE2">Bem\-Estar</span> <span style="color:#FDFFE2">Prática Psicanalítica: Inicie\, continue ou finalize seu percurso com a gente</span> <span style="color:#FDFFE2">Supervisão: Estruturas\, Direção de uma análise\, análise terminável e interminável\, casos graves</span> <span style="color:#FDFFE2"> _Investimento por sessão_ </span> <span style="color:#FDFFE2">Educação\, transformação e Cultura</span> <span style="color:#FDFFE2">Grupos de Estudo e Pesquisa</span> <span style="color:#FDFFE2">Formação em Psicanálise</span> <span style="color:#FDFFE2">Estudo de Línguas\, Cinema\, Arte e Cultura</span> <span style="color:#FDFFE2"> _Investimento mensal_ </span>
+<span style="color:#FDFFE2">Bem-Estar</span> <span style="color:#FDFFE2">Prática Psicanalítica: Inicie, continue ou finalize seu percurso com a gente</span> <span style="color:#FDFFE2">Supervisão: Estruturas, Direção de uma análise, análise terminável e interminável, casos graves</span> <span style="color:#FDFFE2"> _Investimento por sessão_ </span> <span style="color:#FDFFE2">Educação, transformação e Cultura</span> <span style="color:#FDFFE2">Grupos de Estudo e Pesquisa</span> <span style="color:#FDFFE2">Formação em Psicanálise</span> <span style="color:#FDFFE2">Estudo de Línguas, Cinema, Arte e Cultura</span> <span style="color:#FDFFE2"> _Investimento mensal_ </span>
 
 # Adquira nossos produtos
 
-<span style="color:#FDFFE2">Produtos Digitais \- Curso online com acesso vitalício: Vídeoaulas \+ Ebooks</span> <span style="color:#FDFFE2">Figuras em Psicanálise: a criança\, o mal e a neurose\. Mais informações: </span> _[https://go\.hotmart\.com/V85752654T](https://go.hotmart.com/V85752654T)_ <span style="color:#FDFFE2">Psicanálise e Inteligência Artificial\. Mais informações: </span> _[https://go\.hotmart\.com/B85742391D](https://go.hotmart.com/B85742391D)_ <span style="color:#FDFFE2"> _Investimento por curso_ </span> <span style="color:#FDFFE2">Arte\, artesanato e madeira</span> <span style="color:#FDFFE2">@artearteemadeira</span>
+<span style="color:#FDFFE2">Produtos Digitais - Curso online com acesso vitalício: Vídeoaulas + Ebooks</span> <span style="color:#FDFFE2">Figuras em Psicanálise: a criança, o mal e a neurose. Mais informações: </span> _[https://go.hotmart.com/V85752654T](https://go.hotmart.com/V85752654T)_ <span style="color:#FDFFE2">Psicanálise e Inteligência Artificial. Mais informações: </span> _[https://go.hotmart.com/B85742391D](https://go.hotmart.com/B85742391D)_ <span style="color:#FDFFE2"> _Investimento por curso_ </span> <span style="color:#FDFFE2">Arte, artesanato e madeira</span> <span style="color:#FDFFE2">@artearteemadeira</span>
 
 # Trabalhe conosco
 
-<span style="color:#FDFFE2">Afiliação na Clínica: </span> _[https://docs\.google\.com/presentation/d/1vQM9e4Kf_cHFwBQ1S3Kq_fLYDmRRSkZaZgpE2AZkzCA/edit?usp=sharing](https://docs.google.com/presentation/d/1vQM9e4Kf_cHFwBQ1S3Kq_fLYDmRRSkZaZgpE2AZkzCA/edit?usp=sharing)_
+<span style="color:#FDFFE2">Afiliação na Clínica: </span> _[https://docs.google.com/presentation/d/1vQM9e4Kf_cHFwBQ1S3Kq_fLYDmRRSkZaZgpE2AZkzCA/edit?usp=sharing](https://docs.google.com/presentation/d/1vQM9e4Kf_cHFwBQ1S3Kq_fLYDmRRSkZaZgpE2AZkzCA/edit?usp=sharing)_
 
-<span style="color:#FDFFE2">Afiliação de Cursos teóricos: </span> _[https://docs\.google\.com/presentation/d/1i9oTmgf7CVcJT5UJhIEH3IWZuu8rAkJLrzyNuLNeus0/edit?usp=sharing](https://docs.google.com/presentation/d/1i9oTmgf7CVcJT5UJhIEH3IWZuu8rAkJLrzyNuLNeus0/edit?usp=sharing)_
+<span style="color:#FDFFE2">Afiliação de Cursos teóricos: </span> _[https://docs.google.com/presentation/d/1i9oTmgf7CVcJT5UJhIEH3IWZuu8rAkJLrzyNuLNeus0/edit?usp=sharing](https://docs.google.com/presentation/d/1i9oTmgf7CVcJT5UJhIEH3IWZuu8rAkJLrzyNuLNeus0/edit?usp=sharing)_
 
-<span style="color:#FDFFE2">Psiquiatras\, Assistentes Sociais\, Educação: </span> _[https://docs\.google\.com/presentation/d/1fGxKy0PeQVmguioEpAheQGGR8vJUilGqCWMzFmQvtcs/edit?usp=sharing](https://docs.google.com/presentation/d/1fGxKy0PeQVmguioEpAheQGGR8vJUilGqCWMzFmQvtcs/edit?usp=sharing)_
+<span style="color:#FDFFE2">Psiquiatras, Assistentes Sociais, Educação: </span> _[https://docs.google.com/presentation/d/1fGxKy0PeQVmguioEpAheQGGR8vJUilGqCWMzFmQvtcs/edit?usp=sharing](https://docs.google.com/presentation/d/1fGxKy0PeQVmguioEpAheQGGR8vJUilGqCWMzFmQvtcs/edit?usp=sharing)_
 
-<span style="color:#FDFFE2">Cinema: </span> _[https://docs\.google\.com/presentation/d/1MGYJgJPWMmoz7mkZWdFOs3cxNQC9fnZreEX7RP_o5Mw/edit?usp=sharing](https://docs.google.com/presentation/d/1MGYJgJPWMmoz7mkZWdFOs3cxNQC9fnZreEX7RP_o5Mw/edit?usp=sharing)_
+<span style="color:#FDFFE2">Cinema: </span> _[https://docs.google.com/presentation/d/1MGYJgJPWMmoz7mkZWdFOs3cxNQC9fnZreEX7RP_o5Mw/edit?usp=sharing](https://docs.google.com/presentation/d/1MGYJgJPWMmoz7mkZWdFOs3cxNQC9fnZreEX7RP_o5Mw/edit?usp=sharing)_
 
 # Invista
 
-<span style="color:#FDFFE2">Investimento em Cultura</span> <span style="color:#FDFFE2">Cinema\, Patrocinador</span> <span style="color:#FDFFE2">Retorno esperado no Cinema</span> <span style="color:#FDFFE2">Suporte um Escritor\, Produtor\, Diretor</span> <span style="color:#FDFFE2">Melancolia para a escrita\, solitude\, espaço\, silêncio\, vazio</span> <span style="color:#FDFFE2">Retorno esperado: Venda de Livros\, Cursos\, Cinema</span> <span style="color:#FDFFE2"> _Gastos com moradia e alimentação_ </span>
+<span style="color:#FDFFE2">Investimento em Cultura</span> <span style="color:#FDFFE2">Cinema, Patrocinador</span> <span style="color:#FDFFE2">Retorno esperado no Cinema</span> <span style="color:#FDFFE2">Suporte um Escritor, Produtor, Diretor</span> <span style="color:#FDFFE2">Melancolia para a escrita, solitude, espaço, silêncio, vazio</span> <span style="color:#FDFFE2">Retorno esperado: Venda de Livros, Cursos, Cinema</span> <span style="color:#FDFFE2"> _Gastos com moradia e alimentação_ </span>
 
 # Assinaturas
 
-<span style="color:#FDFFE2">Contribua com a formação/trans\-formação de nossa Escola e nossos artistas</span>
+<span style="color:#FDFFE2">Contribua com a formação/trans-formação de nossa Escola e nossos artistas</span>
 
-<span style="color:#FDFFE2">Mensal</span> <span style="color:#FDFFE2">50\,00 \- 100\,00 \- 200\,00 \- 500\,00</span>
+<span style="color:#FDFFE2">Mensal</span> <span style="color:#FDFFE2">50,00 - 100,00 - 200,00 - 500,00</span>
 
 <span style="color:#FDFFE2">Parcelas Únicas</span>
 
-<span style="color:#FDFFE2">500\,00 \- 1\.000\,00 \- 10\.000\,00</span>
+<span style="color:#FDFFE2">500,00 - 1.000,00 - 10.000,00</span>
 
-<span style="color:#FDFFE2"> _\(Sob negociação de retorno ou doação\)_ </span>
+<span style="color:#FDFFE2"> _(Sob negociação de retorno ou doação)_ </span>
 
 # Escola de Psicanálise, Arte e CinemaAtividades 2024
 
@@ -196,43 +196,43 @@ Estudo de Línguas
 
 # Sumário
 
-<span style="color:#FDFFE2">Sala Online \- Análise e Supervisão \- Seminários \- Línguas</span>
+<span style="color:#FDFFE2">Sala Online - Análise e Supervisão - Seminários - Línguas</span>
 
-<span style="color:#FDFFE2">Pesquisa \- Investimento \- Aberto ao público</span>
+<span style="color:#FDFFE2">Pesquisa - Investimento - Aberto ao público</span>
 
-<span style="color:#FDFFE2">Condições de Ingresso e Políticas afirmativas \- Analista da Escola</span>
+<span style="color:#FDFFE2">Condições de Ingresso e Políticas afirmativas - Analista da Escola</span>
 
-<span style="color:#FDFFE2">Formação Clínica \- Cursos online \- Ebooks e materiais</span>
+<span style="color:#FDFFE2">Formação Clínica - Cursos online - Ebooks e materiais</span>
 
 <span style="color:#FDFFE2">Fácil acesso</span>
 
 # Sala Online
 
-_[https://meet\.google\.com/htw\-hkei\-dyy](https://meet.google.com/htw-hkei-dyy)_
+_[https://meet.google.com/htw-hkei-dyy](https://meet.google.com/htw-hkei-dyy)_
 
 # Análise Pessoal e Supervisão
 
-<span style="color:#FDFFE2">Análise Pessoal</span> <span style="color:#FDFFE2">: </span> _[https://docs\.google\.com/presentation/d/1rXsg_4xtB6SyIJD5TuuvIyOqOFWbxH45MmerYR1D3lY/edit?usp=sharing](https://docs.google.com/presentation/d/1rXsg_4xtB6SyIJD5TuuvIyOqOFWbxH45MmerYR1D3lY/edit?usp=sharing)_
+<span style="color:#FDFFE2">Análise Pessoal</span> <span style="color:#FDFFE2">: </span> _[https://docs.google.com/presentation/d/1rXsg_4xtB6SyIJD5TuuvIyOqOFWbxH45MmerYR1D3lY/edit?usp=sharing](https://docs.google.com/presentation/d/1rXsg_4xtB6SyIJD5TuuvIyOqOFWbxH45MmerYR1D3lY/edit?usp=sharing)_
 
-<span style="color:#FDFFE2">Supervisão: </span> _[https://shorturl\.at/kqrv0](https://shorturl.at/kqrv0)_
+<span style="color:#FDFFE2">Supervisão: </span> _[https://shorturl.at/kqrv0](https://shorturl.at/kqrv0)_
 
 # Atividades
 
-<span style="color:#FDFFE2">Grupos de estudos \(45 minutos\, Online\): </span> <span style="color:#FDFFE2">Semanais</span> <span style="color:#FDFFE2">Seminário 23\, Lacan\, Sinthoma\, Terças 19h</span> <span style="color:#FDFFE2">Espanhol \- Terças 11:10h </span> <span style="color:#FDFFE2">Transexualidades Quartas 16h\, </span> <span style="color:#FDFFE2">Trans\-missão da Psicanálise e Trans\-formação do Analista\, Terças 20h</span> <span style="color:#FDFFE2">Quinzenais</span> <span style="color:#FDFFE2">: Psicoses: Quintas 16h</span> <span style="color:#FDFFE2">História da Arte\, Cinema e Literatura: Quintas 10h</span> <span style="color:#FDFFE2">Lacan em Francês \- Segundas 15h</span> <span style="color:#FDFFE2">Feminino\, melancolia e teatro\, Quartas\, 20h</span> <span style="color:#FDFFE2">Homem\, Solidão e Cálculos\, Segundas 20h</span> <span style="color:#FDFFE2">Mensal</span> <span style="color:#FDFFE2">: Estruturas em Psicanálise: Quinta 20h</span>
+<span style="color:#FDFFE2">Grupos de estudos (45 minutos, Online): </span> <span style="color:#FDFFE2">Semanais</span> <span style="color:#FDFFE2">Seminário 23, Lacan, Sinthoma, Terças 19h</span> <span style="color:#FDFFE2">Espanhol - Terças 11:10h </span> <span style="color:#FDFFE2">Transexualidades Quartas 16h, </span> <span style="color:#FDFFE2">Trans-missão da Psicanálise e Trans-formação do Analista, Terças 20h</span> <span style="color:#FDFFE2">Quinzenais</span> <span style="color:#FDFFE2">: Psicoses: Quintas 16h</span> <span style="color:#FDFFE2">História da Arte, Cinema e Literatura: Quintas 10h</span> <span style="color:#FDFFE2">Lacan em Francês - Segundas 15h</span> <span style="color:#FDFFE2">Feminino, melancolia e teatro, Quartas, 20h</span> <span style="color:#FDFFE2">Homem, Solidão e Cálculos, Segundas 20h</span> <span style="color:#FDFFE2">Mensal</span> <span style="color:#FDFFE2">: Estruturas em Psicanálise: Quinta 20h</span>
 
 # Estudos de Línguas
 
-<span style="color:#FDFFE2">Línguas: </span> _[https://shorturl\.at/kqrv0](https://shorturl.at/kqrv0)_
+<span style="color:#FDFFE2">Línguas: </span> _[https://shorturl.at/kqrv0](https://shorturl.at/kqrv0)_
 
-**Básico ao fluente:** <span style="color:#FDFFE2"> </span> <span style="color:#FDFFE2">Inglês\, Espanhol\, Francês\, Português</span>
+**Básico ao fluente:** <span style="color:#FDFFE2"> </span> <span style="color:#FDFFE2">Inglês, Espanhol, Francês, Português</span>
 
-<span style="color:#FDFFE2">Leitura de textos\, Escrita técnica e criativa\, Conversação\, fluxo\, Cultura\, Teatro\, cinema\, leitura de roteiros\, Uma fala fluida\, viva e espontânea</span>
+<span style="color:#FDFFE2">Leitura de textos, Escrita técnica e criativa, Conversação, fluxo, Cultura, Teatro, cinema, leitura de roteiros, Uma fala fluida, viva e espontânea</span>
 
-**Básico: ** <span style="color:#FDFFE2">Chinês\, Russo\, Alemão\, Coreano\, Italiano\, Árabe\, Japonês\, Grego</span>
+**Básico: ** <span style="color:#FDFFE2">Chinês, Russo, Alemão, Coreano, Italiano, Árabe, Japonês, Grego</span>
 
 # Pesquisa
 
-<span style="color:#FDFFE2">Línguas: </span> _[https://shorturl\.at/mvAO5](https://shorturl.at/mvAO5)_
+<span style="color:#FDFFE2">Línguas: </span> _[https://shorturl.at/mvAO5](https://shorturl.at/mvAO5)_
 
 **Psicanálise na China**
 
@@ -240,37 +240,37 @@ _[https://meet\.google\.com/htw\-hkei\-dyy](https://meet.google.com/htw-hkei-dyy
 
 **Psicanálise na Rússia**
 
-**Escolas\, AMP\, IPA\, Revistas\, Estruturas e Diferenças**
+**Escolas, AMP, IPA, Revistas, Estruturas e Diferenças**
 
-![](../../static/post-images/School-of-Cinema-Art-Psychoanalysis/School-of-Cinema-Art-Psychoanalysis18.png)
+![](../../post-images/School-of-Cinema-Art-Psychoanalysis/School-of-Cinema-Art-Psychoanalysis18.png)
 
 # Estrutura e valores
 
-<span style="color:#FDFFE2">300\,00 / mês semanal</span>
+<span style="color:#FDFFE2">300,00 / mês semanal</span>
 
-<span style="color:#FDFFE2">200\,00 / mês quinezal</span>
+<span style="color:#FDFFE2">200,00 / mês quinezal</span>
 
-<span style="color:#FDFFE2">150\,00 / mês mensal</span>
+<span style="color:#FDFFE2">150,00 / mês mensal</span>
 
 <span style="color:#FDFFE2">Pagamento: </span>
 
-<span style="color:#FDFFE2">telefone: 9 9772 6990</span> <span style="color:#FDFFE2">Pix chave aleatória: </span> <span style="color:#FDFFE2">00020101021126580014br\.gov\.bcb\.pix013678dfe124\-00aa\-4a62\-90eb\-d6f203c7af7c5204000053039865802BR5917TALLES DE O FARIA6013BOA ESPERANCA62070503\*\*\*63042941</span>
+<span style="color:#FDFFE2">telefone: 9 9772 6990</span> <span style="color:#FDFFE2">Pix chave aleatória: </span> <span style="color:#FDFFE2">00020101021126580014br.gov.bcb.pix013678dfe124-00aa-4a62-90eb-d6f203c7af7c5204000053039865802BR5917TALLES DE O FARIA6013BOA ESPERANCA62070503\*\*\*63042941</span>
 
 # Aberto ao público
 
 <span style="color:#FDFFE2">CineArte: 19h </span>
 
-<span style="color:#FDFFE2">Divulgação no Instagram\, Grupos e Canais Talles Barrini</span>
+<span style="color:#FDFFE2">Divulgação no Instagram, Grupos e Canais Talles Barrini</span>
 
 <span style="color:#FDFFE2">Atividades da Biblioteca; Cartéis; </span>
 
 <span style="color:#FDFFE2">Psicanálise e Conexões: Pesquisa em andamento; </span>
 
-<span style="color:#FDFFE2">Lançamentos e conversas com autores\, atores e diretores</span>
+<span style="color:#FDFFE2">Lançamentos e conversas com autores, atores e diretores</span>
 
 # CineArte (Quinzenal) 19h
 
-<span style="color:#FDFFE2">Mostra e/ou discussão de Obras do Cinema\.</span> <span style="color:#FDFFE2">Análise de Roteiro</span>
+<span style="color:#FDFFE2">Mostra e/ou discussão de Obras do Cinema.</span> <span style="color:#FDFFE2">Análise de Roteiro</span>
 
 <span style="color:#FDFFE2">Teatro</span>
 
@@ -278,97 +278,97 @@ _[https://meet\.google\.com/htw\-hkei\-dyy](https://meet.google.com/htw-hkei-dyy
 
 # Participação
 
-<span style="color:#FDFFE2">Enviar mensagem no Whatsapp informando atividade que deseja participar\.</span> <span style="color:#FDFFE2">Pix: 00020101021126580014br\.gov\.bcb\.pix013678dfe124\-00aa\-4a62\-90eb\-d6f203c7af7c5204000053039865802BR5917TALLES DE O FARIA6013BOA ESPERANCA62070503\*\*\*63042941</span>
+<span style="color:#FDFFE2">Enviar mensagem no Whatsapp informando atividade que deseja participar.</span> <span style="color:#FDFFE2">Pix: 00020101021126580014br.gov.bcb.pix013678dfe124-00aa-4a62-90eb-d6f203c7af7c5204000053039865802BR5917TALLES DE O FARIA6013BOA ESPERANCA62070503\*\*\*63042941</span>
 
-<span style="color:#FDFFE2">Os candidatos a Analista da Escola deverão endereçar uma carta a Comissão de Acolhimento do Fórum através do e\-mail: </span> _[tallesbarrini@gmail\.com](mailto:tallesbarrini@gmail.com)_ <span style="color:#FDFFE2"> </span>
+<span style="color:#FDFFE2">Os candidatos a Analista da Escola deverão endereçar uma carta a Comissão de Acolhimento do Fórum através do e-mail: </span> _[tallesbarrini@gmail.com](mailto:tallesbarrini@gmail.com)_ <span style="color:#FDFFE2"> </span>
 
 # Condições de Ingresso e Políticas afirmativas
 
-<span style="color:#FDFFE2">A Comissão de bolsas e auxílios do Fórum trabalha na formulação de um Projeto de Políticas Afirmativas para democratizar o acesso e a formação de novos analistas destinam se a profissionais de baixa renda\, prioritariamente afrodescendentes e povos indígenas\. Os critérios para a seleção serão objeto de regulamento interno próprio e seguirão orientações específicas por meio de edital\, formulado por esta Comissão\. O objetivo é implementar uma política de ingresso à formação que sustente a imprescindibilidade de proporcionalidade dos membros e participantes do Fórum com a composição étnica da população brasileira\. </span>
+<span style="color:#FDFFE2">A Comissão de bolsas e auxílios do Fórum trabalha na formulação de um Projeto de Políticas Afirmativas para democratizar o acesso e a formação de novos analistas destinam se a profissionais de baixa renda, prioritariamente afrodescendentes e povos indígenas. Os critérios para a seleção serão objeto de regulamento interno próprio e seguirão orientações específicas por meio de edital, formulado por esta Comissão. O objetivo é implementar uma política de ingresso à formação que sustente a imprescindibilidade de proporcionalidade dos membros e participantes do Fórum com a composição étnica da população brasileira. </span>
 
 # Formação clínica
 
-<span style="color:#FDFFE2">Análise Pessoal\, Estudos Teóricos\, Supervisão</span>
+<span style="color:#FDFFE2">Análise Pessoal, Estudos Teóricos, Supervisão</span>
 
 <span style="color:#FDFFE2">Módulos temáticos e Cursos de extensão</span>
 
-<span style="color:#FDFFE2">Figuras em análise: a criança\, o mal e a neurose</span> <span style="color:#FDFFE2">Psicanálise e Inteligência Artificial: Distopias</span> <span style="color:#FDFFE2">Gênero e transexualidades</span>
+<span style="color:#FDFFE2">Figuras em análise: a criança, o mal e a neurose</span> <span style="color:#FDFFE2">Psicanálise e Inteligência Artificial: Distopias</span> <span style="color:#FDFFE2">Gênero e transexualidades</span>
 
-<span style="color:#FDFFE2">Lógica\, representação e esquemas de Psicanálise</span>
+<span style="color:#FDFFE2">Lógica, representação e esquemas de Psicanálise</span>
 
 # Analista Membro
 
 <span style="color:#FDFFE2">Carta de intenção</span> <span style="color:#FDFFE2"> justificando a demanda de admissão;</span>
 
-<span style="color:#FDFFE2">Curriculum vitae com os dados biográficos incluindo data de nascimento\, endereço eletrônico\, endereço postal\, </span> <span style="color:#FDFFE2">experiência analítica</span> <span style="color:#FDFFE2"> \(análise e supervisão\)\, percurso em Escolas\, publicações\, participações em congressos\, titulações acadêmicas \(curso superior completo\)\, cargos\, funções e experiências de relevância na comunidade analítica\.</span>
+<span style="color:#FDFFE2">Curriculum vitae com os dados biográficos incluindo data de nascimento, endereço eletrônico, endereço postal, </span> <span style="color:#FDFFE2">experiência analítica</span> <span style="color:#FDFFE2"> (análise e supervisão), percurso em Escolas, publicações, participações em congressos, titulações acadêmicas (curso superior completo), cargos, funções e experiências de relevância na comunidade analítica.</span>
 
-<span style="color:#FDFFE2">Três textos de sua </span> <span style="color:#FDFFE2">autoria</span> <span style="color:#FDFFE2">\, apresentados e/ou publicados recentemente\, os quais considere expressivos na sua elaboração clínica e epistêmica\.</span>
+<span style="color:#FDFFE2">Três textos de sua </span> <span style="color:#FDFFE2">autoria</span> <span style="color:#FDFFE2">, apresentados e/ou publicados recentemente, os quais considere expressivos na sua elaboração clínica e epistêmica.</span>
 
-![](../../static/post-images/School-of-Cinema-Art-Psychoanalysis/School-of-Cinema-Art-Psychoanalysis19.png)
+![](../../post-images/School-of-Cinema-Art-Psychoanalysis/School-of-Cinema-Art-Psychoanalysis19.png)
 
-![](../../static/post-images/School-of-Cinema-Art-Psychoanalysis/School-of-Cinema-Art-Psychoanalysis20.png)
+![](../../post-images/School-of-Cinema-Art-Psychoanalysis/School-of-Cinema-Art-Psychoanalysis20.png)
 
-![](../../static/post-images/School-of-Cinema-Art-Psychoanalysis/School-of-Cinema-Art-Psychoanalysis21.png)
+![](../../post-images/School-of-Cinema-Art-Psychoanalysis/School-of-Cinema-Art-Psychoanalysis21.png)
 
-![](../../static/post-images/School-of-Cinema-Art-Psychoanalysis/School-of-Cinema-Art-Psychoanalysis22.png)
+![](../../post-images/School-of-Cinema-Art-Psychoanalysis/School-of-Cinema-Art-Psychoanalysis22.png)
 
-![](../../static/post-images/School-of-Cinema-Art-Psychoanalysis/School-of-Cinema-Art-Psychoanalysis23.png)
+![](../../post-images/School-of-Cinema-Art-Psychoanalysis/School-of-Cinema-Art-Psychoanalysis23.png)
 
 # Cursos teóricos
 
-_[https://linktr\.ee/tallesbarrini](https://linktr.ee/tallesbarrini)_
+_[https://linktr.ee/tallesbarrini](https://linktr.ee/tallesbarrini)_
 
-<span style="color:#FDFFE2">Cursos online: </span> <span style="color:#FDFFE2">Figuras em Psicanálise: a criança\, o mal e a neurose</span> <span style="color:#FDFFE2">\. Mais informações: https://go\.hotmart\.com/V85752654T </span> <span style="color:#FDFFE2">Psicanálise e Inteligência Artificial</span> <span style="color:#FDFFE2">\. Mais informações: https://go\.hotmart\.com/B85742391D </span>
+<span style="color:#FDFFE2">Cursos online: </span> <span style="color:#FDFFE2">Figuras em Psicanálise: a criança, o mal e a neurose</span> <span style="color:#FDFFE2">. Mais informações: https://go.hotmart.com/V85752654T </span> <span style="color:#FDFFE2">Psicanálise e Inteligência Artificial</span> <span style="color:#FDFFE2">. Mais informações: https://go.hotmart.com/B85742391D </span>
 
 # Ebooks e outros materiais
 
-<span style="color:#FDFFE2">Slides e outros materiais estão disponíveis no drive\, basta clicar e baixar: </span> _[https://drive\.google\.com/drive/folders/1RVQs75Obb9ZXaLrUQwucCaye87eqvoHr?usp=sharing](https://drive.google.com/drive/folders/1RVQs75Obb9ZXaLrUQwucCaye87eqvoHr?usp=sharing)_
+<span style="color:#FDFFE2">Slides e outros materiais estão disponíveis no drive, basta clicar e baixar: </span> _[https://drive.google.com/drive/folders/1RVQs75Obb9ZXaLrUQwucCaye87eqvoHr?usp=sharing](https://drive.google.com/drive/folders/1RVQs75Obb9ZXaLrUQwucCaye87eqvoHr?usp=sharing)_
 
-<span style="color:#FDFFE2">Conheça a clínica\, supervisão e estudos de casos</span> <span style="color:#FDFFE2">: O que é uma Análise\, a quem se destina\, quais seus efeitos\, etc</span> _[https://docs\.google\.com/presentation/d/1rXsg_4xtB6SyIJD5TuuvIyOqOFWbxH45MmerYR1D3lY/edit?usp=sharing](https://docs.google.com/presentation/d/1rXsg_4xtB6SyIJD5TuuvIyOqOFWbxH45MmerYR1D3lY/edit?usp=sharing)_
+<span style="color:#FDFFE2">Conheça a clínica, supervisão e estudos de casos</span> <span style="color:#FDFFE2">: O que é uma Análise, a quem se destina, quais seus efeitos, etc</span> _[https://docs.google.com/presentation/d/1rXsg_4xtB6SyIJD5TuuvIyOqOFWbxH45MmerYR1D3lY/edit?usp=sharing](https://docs.google.com/presentation/d/1rXsg_4xtB6SyIJD5TuuvIyOqOFWbxH45MmerYR1D3lY/edit?usp=sharing)_
 
-<span style="color:#FDFFE2"> </span> <span style="color:#FDFFE2">Línguas: </span> _[https://shorturl\.at/kqrv0](https://shorturl.at/kqrv0)_
+<span style="color:#FDFFE2"> </span> <span style="color:#FDFFE2">Línguas: </span> _[https://shorturl.at/kqrv0](https://shorturl.at/kqrv0)_
 
 # Trabalhe conosco
 
-<span style="color:#FDFFE2">Afiliação na Clínica: </span> _[https://docs\.google\.com/presentation/d/1vQM9e4Kf_cHFwBQ1S3Kq_fLYDmRRSkZaZgpE2AZkzCA/edit?usp=sharing](https://docs.google.com/presentation/d/1vQM9e4Kf_cHFwBQ1S3Kq_fLYDmRRSkZaZgpE2AZkzCA/edit?usp=sharing)_
+<span style="color:#FDFFE2">Afiliação na Clínica: </span> _[https://docs.google.com/presentation/d/1vQM9e4Kf_cHFwBQ1S3Kq_fLYDmRRSkZaZgpE2AZkzCA/edit?usp=sharing](https://docs.google.com/presentation/d/1vQM9e4Kf_cHFwBQ1S3Kq_fLYDmRRSkZaZgpE2AZkzCA/edit?usp=sharing)_
 
-<span style="color:#FDFFE2">Afiliação de Cursos teóricos: </span> _[https://docs\.google\.com/presentation/d/1i9oTmgf7CVcJT5UJhIEH3IWZuu8rAkJLrzyNuLNeus0/edit?usp=sharing](https://docs.google.com/presentation/d/1i9oTmgf7CVcJT5UJhIEH3IWZuu8rAkJLrzyNuLNeus0/edit?usp=sharing)_
+<span style="color:#FDFFE2">Afiliação de Cursos teóricos: </span> _[https://docs.google.com/presentation/d/1i9oTmgf7CVcJT5UJhIEH3IWZuu8rAkJLrzyNuLNeus0/edit?usp=sharing](https://docs.google.com/presentation/d/1i9oTmgf7CVcJT5UJhIEH3IWZuu8rAkJLrzyNuLNeus0/edit?usp=sharing)_
 
-<span style="color:#FDFFE2">Psiquiatras\, Assistentes Sociais\, Educação: </span> _[https://docs\.google\.com/presentation/d/1fGxKy0PeQVmguioEpAheQGGR8vJUilGqCWMzFmQvtcs/edit?usp=sharing](https://docs.google.com/presentation/d/1fGxKy0PeQVmguioEpAheQGGR8vJUilGqCWMzFmQvtcs/edit?usp=sharing)_
+<span style="color:#FDFFE2">Psiquiatras, Assistentes Sociais, Educação: </span> _[https://docs.google.com/presentation/d/1fGxKy0PeQVmguioEpAheQGGR8vJUilGqCWMzFmQvtcs/edit?usp=sharing](https://docs.google.com/presentation/d/1fGxKy0PeQVmguioEpAheQGGR8vJUilGqCWMzFmQvtcs/edit?usp=sharing)_
 
-<span style="color:#FDFFE2">Cinema: </span> _[https://docs\.google\.com/presentation/d/1MGYJgJPWMmoz7mkZWdFOs3cxNQC9fnZreEX7RP_o5Mw/edit?usp=sharing](https://docs.google.com/presentation/d/1MGYJgJPWMmoz7mkZWdFOs3cxNQC9fnZreEX7RP_o5Mw/edit?usp=sharing)_
+<span style="color:#FDFFE2">Cinema: </span> _[https://docs.google.com/presentation/d/1MGYJgJPWMmoz7mkZWdFOs3cxNQC9fnZreEX7RP_o5Mw/edit?usp=sharing](https://docs.google.com/presentation/d/1MGYJgJPWMmoz7mkZWdFOs3cxNQC9fnZreEX7RP_o5Mw/edit?usp=sharing)_
 
 # CV e Trabalhos
 
-<span style="color:#FDFFE2">CV Cinema\, Arte e Psicanálise: </span> _[https://shorturl\.at/dfuI9](https://shorturl.at/dfuI9)_
+<span style="color:#FDFFE2">CV Cinema, Arte e Psicanálise: </span> _[https://shorturl.at/dfuI9](https://shorturl.at/dfuI9)_
 
-<span style="color:#FDFFE2">CV Cinema: </span> _[https://docs\.google\.com/presentation/d/1ynFhgRSXQarcCPwKzW5Mjp53FVSfeLC\-YuWfAWXQ50A/edit?usp=sharing](https://docs.google.com/presentation/d/1ynFhgRSXQarcCPwKzW5Mjp53FVSfeLC-YuWfAWXQ50A/edit?usp=sharing)_
+<span style="color:#FDFFE2">CV Cinema: </span> _[https://docs.google.com/presentation/d/1ynFhgRSXQarcCPwKzW5Mjp53FVSfeLC-YuWfAWXQ50A/edit?usp=sharing](https://docs.google.com/presentation/d/1ynFhgRSXQarcCPwKzW5Mjp53FVSfeLC-YuWfAWXQ50A/edit?usp=sharing)_
 
-<span style="color:#FDFFE2">CV Engenharia: </span> _[https://docs\.google\.com/presentation/d/1om1K_Taj\-RB7kw1RaL99sO3TirB4SA5CUfBQ0sZ6rd8/edit?usp=sharing](https://docs.google.com/presentation/d/1om1K_Taj-RB7kw1RaL99sO3TirB4SA5CUfBQ0sZ6rd8/edit?usp=sharing)_
+<span style="color:#FDFFE2">CV Engenharia: </span> _[https://docs.google.com/presentation/d/1om1K_Taj-RB7kw1RaL99sO3TirB4SA5CUfBQ0sZ6rd8/edit?usp=sharing](https://docs.google.com/presentation/d/1om1K_Taj-RB7kw1RaL99sO3TirB4SA5CUfBQ0sZ6rd8/edit?usp=sharing)_
 
-<span style="color:#FDFFE2">Imdb: </span> <span style="color:#FDFFE2"> _[https://www\.imdb\.com/user/ur120912813/ratings](https://www.imdb.com/user/ur120912813/ratings)_ </span>
+<span style="color:#FDFFE2">Imdb: </span> <span style="color:#FDFFE2"> _[https://www.imdb.com/user/ur120912813/ratings](https://www.imdb.com/user/ur120912813/ratings)_ </span>
 
-<span style="color:#FDFFE2">Apresentação \- Escola de Cinema\, Arte e Psicanálise: </span> <span style="color:#FDFFE2"> _[https://docs\.google\.com/presentation/d/1MGYJgJPWMmoz7mkZWdFOs3cxNQC9fnZreEX7RP_o5Mw/edit?usp=sharing](https://docs.google.com/presentation/d/1MGYJgJPWMmoz7mkZWdFOs3cxNQC9fnZreEX7RP_o5Mw/edit?usp=sharing)_ </span> <span style="color:#FDFFE2">Escola de Subjetividade\, Arte e Psicanálise: </span> <span style="color:#FDFFE2"> _[https://docs\.google\.com/presentation/d/1dy1HHo_fTVZFMWLlGUcMLv_uTNj6gLMe87CGtVaN1ro/edit?usp=sharing](https://docs.google.com/presentation/d/1dy1HHo_fTVZFMWLlGUcMLv_uTNj6gLMe87CGtVaN1ro/edit?usp=sharing)_ </span>
+<span style="color:#FDFFE2">Apresentação - Escola de Cinema, Arte e Psicanálise: </span> <span style="color:#FDFFE2"> _[https://docs.google.com/presentation/d/1MGYJgJPWMmoz7mkZWdFOs3cxNQC9fnZreEX7RP_o5Mw/edit?usp=sharing](https://docs.google.com/presentation/d/1MGYJgJPWMmoz7mkZWdFOs3cxNQC9fnZreEX7RP_o5Mw/edit?usp=sharing)_ </span> <span style="color:#FDFFE2">Escola de Subjetividade, Arte e Psicanálise: </span> <span style="color:#FDFFE2"> _[https://docs.google.com/presentation/d/1dy1HHo_fTVZFMWLlGUcMLv_uTNj6gLMe87CGtVaN1ro/edit?usp=sharing](https://docs.google.com/presentation/d/1dy1HHo_fTVZFMWLlGUcMLv_uTNj6gLMe87CGtVaN1ro/edit?usp=sharing)_ </span>
 
-<span style="color:#FDFFE2">Percurso em Psicanálise: </span> <span style="color:#FDFFE2"> _[https://docs\.google\.com/presentation/d/1DU01iGXqGQFNwVJtnK6xTcUxQHRqxIhKlukwAxIsgTc/edit?usp=sharing](https://docs.google.com/presentation/d/1DU01iGXqGQFNwVJtnK6xTcUxQHRqxIhKlukwAxIsgTc/edit?usp=sharing)_ </span>
+<span style="color:#FDFFE2">Percurso em Psicanálise: </span> <span style="color:#FDFFE2"> _[https://docs.google.com/presentation/d/1DU01iGXqGQFNwVJtnK6xTcUxQHRqxIhKlukwAxIsgTc/edit?usp=sharing](https://docs.google.com/presentation/d/1DU01iGXqGQFNwVJtnK6xTcUxQHRqxIhKlukwAxIsgTc/edit?usp=sharing)_ </span>
 
 # Links
 
-<span style="color:#FDFFE2">Software Engineer: </span> <span style="color:#FDFFE2"> _[https://docs\.google\.com/presentation/d/1DOJwoIGn22VGetRZ5fbKNIKFpTC1WoV4V\_\-f2EpAqnQ/edit?usp=sharing](https://docs.google.com/presentation/d/1DOJwoIGn22VGetRZ5fbKNIKFpTC1WoV4V_-f2EpAqnQ/edit?usp=sharing)\_ </span>
+<span style="color:#FDFFE2">Software Engineer: </span> <span style="color:#FDFFE2"> _[https://docs.google.com/presentation/d/1DOJwoIGn22VGetRZ5fbKNIKFpTC1WoV4V_-f2EpAqnQ/edit?usp=sharing](https://docs.google.com/presentation/d/1DOJwoIGn22VGetRZ5fbKNIKFpTC1WoV4V_-f2EpAqnQ/edit?usp=sharing)\_ </span>
 
-<span style="color:#FDFFE2">IA e Psicanálise: </span> <span style="color:#FDFFE2"> _[https://docs\.google\.com/presentation/d/1pdimAblLJPtOYCBqVitH_2cV4O96BFWeopLXrl\-fuJ4/edit?usp=sharing](https://docs.google.com/presentation/d/1pdimAblLJPtOYCBqVitH_2cV4O96BFWeopLXrl-fuJ4/edit?usp=sharing)_ </span>
+<span style="color:#FDFFE2">IA e Psicanálise: </span> <span style="color:#FDFFE2"> _[https://docs.google.com/presentation/d/1pdimAblLJPtOYCBqVitH_2cV4O96BFWeopLXrl-fuJ4/edit?usp=sharing](https://docs.google.com/presentation/d/1pdimAblLJPtOYCBqVitH_2cV4O96BFWeopLXrl-fuJ4/edit?usp=sharing)_ </span>
 
-<span style="color:#FDFFE2">Startup Checklist: </span> <span style="color:#FDFFE2">https://docs\.google\.com/presentation/d/12MFYNK6o3fg8uSRkrM6zUnSdbxPLMMWZaaro9NANLmg/edit?usp=sharing</span>
+<span style="color:#FDFFE2">Startup Checklist: </span> <span style="color:#FDFFE2">https://docs.google.com/presentation/d/12MFYNK6o3fg8uSRkrM6zUnSdbxPLMMWZaaro9NANLmg/edit?usp=sharing</span>
 
 # Grupos e Canais
 
-<span style="color:#FDFFE2">WhatsApp Talles Barrini: </span> _[https://chat\.whatsapp\.com/JGlGyJQirVK2nshslvTsen](https://chat.whatsapp.com/JGlGyJQirVK2nshslvTsen)_
+<span style="color:#FDFFE2">WhatsApp Talles Barrini: </span> _[https://chat.whatsapp.com/JGlGyJQirVK2nshslvTsen](https://chat.whatsapp.com/JGlGyJQirVK2nshslvTsen)_
 
-<span style="color:#FDFFE2">WhatsApp Afiliados: </span> _[https://chat\.whatsapp\.com/Ebe8zQC1oLjLGDuKC8by8I](https://chat.whatsapp.com/Ebe8zQC1oLjLGDuKC8by8I)_
+<span style="color:#FDFFE2">WhatsApp Afiliados: </span> _[https://chat.whatsapp.com/Ebe8zQC1oLjLGDuKC8by8I](https://chat.whatsapp.com/Ebe8zQC1oLjLGDuKC8by8I)_
 
-<span style="color:#FDFFE2">Canal Telegram: </span> _[https://t\.me/tallesbarrini](https://t.me/tallesbarrini)_
+<span style="color:#FDFFE2">Canal Telegram: </span> _[https://t.me/tallesbarrini](https://t.me/tallesbarrini)_
 
-![](../../static/post-images/School-of-Cinema-Art-Psychoanalysis/School-of-Cinema-Art-Psychoanalysis24.jpg)
+![](../../post-images/School-of-Cinema-Art-Psychoanalysis/School-of-Cinema-Art-Psychoanalysis24.jpg)
 
 # Vamos iniciar esse percurso?
 
@@ -376,6 +376,6 @@ _[https://linktr\.ee/tallesbarrini](https://linktr.ee/tallesbarrini)_
 
 @tallesbarrini
 
-\+55 \(35\) 99772 6990
++55 (35) 99772 6990
 
-_[tallesbarrini@gmail\.com](mailto:tallesconsultoriapessoal@gmail.com)_
+_[tallesbarrini@gmail.com](mailto:tallesconsultoriapessoal@gmail.com)_
