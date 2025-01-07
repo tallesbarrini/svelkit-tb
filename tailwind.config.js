@@ -1,3 +1,6 @@
+import typography from "@tailwindcss/typography";
+import aspectRatio from "@tailwindcss/aspect-ratio";
+
 /** @type {import('tailwindcss').Config} */
 export default {
   content: ["./src/**/*.{html,js,svelte,ts}"],
@@ -11,13 +14,8 @@ export default {
         return {
           DEFAULT: {
             css: {
-              "code::before": {
-                content: "none" // don’t generate the pseudo-element
-                //                content: '""', // this is an alternative: generate pseudo element using an empty string
-              },
-              "code::after": {
-                content: "none"
-              },
+              "code::before": { content: "none" },
+              "code::after": { content: "none" },
               code: {
                 color: theme("colors.white"),
                 backgroundColor: "#143652",
@@ -25,16 +23,13 @@ export default {
                 paddingLeft: theme("spacing.1"),
                 paddingRight: theme("spacing.1"),
                 paddingTop: theme("spacing.1"),
-                paddingBottom: theme("spacing.1")
-              }
-            }
-          }
+                paddingBottom: theme("spacing.1"),
+              },
+            },
+          },
         };
-      }
-    }
+      },
+    },
   },
-  plugins: [
-    require("@tailwindcss/typography"),
-    require("@tailwindcss/aspect-ratio")
-  ]
+  plugins: [typography, aspectRatio],
 };
