@@ -15,3 +15,8 @@ export type MarkdownPostMetadataAndSlug = {
   slug: string;
   metadata: MarkdownPost["metadata"];
 };
+
+export type MarkdownPosts = {
+  slug: string;
+  posts: MarkdownPost[]; // Array of MarkdownPost
+};

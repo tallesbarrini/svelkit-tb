@@ -1,10 +1,10 @@
 <script lang="ts">
   import { page } from "$app/stores";
   import HomeHeader from "$lib/components/HomeHeader.svelte";
-  import PostListing from "$lib/components/PostListing.svelte";
-  import type { PageData } from "./$types";
+  // import PostListing from "$lib/components/PostListing.svelte";
+  // import type { PageData } from "./$types";
 
-  export let data: PageData;
+  // export let data: PageData;
 </script>
 
 <svelte:head>
@@ -28,12 +28,12 @@
 
 <HomeHeader />
 
-<section class="pb-6">
+<!-- <section class="pb-6">
   <header
     class="mx-4 mb-4 inline-block
     border-b py-2 dark:border-gray-700"
   >
-    <h2 class="text-3xl font-semibold">Blog Posts</h2>
+    <h2 class="text-3xl font-semibold">Headline Posts</h2>
   </header>
 
   <section class="divide-y dark:divide-gray-700">
@@ -41,4 +41,4 @@
       <PostListing {post} />
     {/each}
   </section>
-</section>
+</section> -->
